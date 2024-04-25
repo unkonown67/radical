@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Radical Academy</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  <!-- Redirect to the website after 5 seconds --> 
+ <meta http-equiv="refresh"
+ content="5;url=https://example.com">
+ </head>
+<body>
+  <header>
+    <h1>Welcome to Radical Academy</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Competition</a></li>
+        <li><a href="#">Upload Notes</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <main>
+    <section>
+      <img src="placeholder.jpg" alt="Placeholder Image">
+      <h2>About Radical Academy</h2>
+      <p>Welcome to Radical Academy, where we provide innovative and cutting-edge educational programs to empower individuals and foster lifelong learning. Our mission is to inspire creativity, critical thinking, and personal growth in every student.</p>
+      <p>At Radical Academy, we believe in challenging the status quo and pushing boundaries to create a better future. Join us in our quest for knowledge and discovery!</p>
+    </section>
+    
+    <section>
+      <h2>Competition Page</h2>
+      <p>Compete with other schools in various activities and challenges. Stay tuned for upcoming competitions!</p>
+    </section>
+    
+    <section>
+      <h2>Upload Notes</h2>
+      <p>Upload your class notes and share them with your peers. Collaboration and knowledge sharing are key to success!</p>
+    </section>
+  </main>
+  
+  <footer>
+    <p>&copy; 2022 Radical Academy | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
